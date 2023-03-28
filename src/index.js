@@ -1,4 +1,3 @@
-import './css/styles.css';
 import { fetchCountries } from '../src/fetchCountries.js';
 import Notiflix from 'notiflix';
 import './css/styles.css';
